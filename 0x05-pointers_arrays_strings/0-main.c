@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- *Using pointers from an external function to swap into main function
+ * main - check the code
  *
- * Return 0 as the default
+ * Return: Always 0.
  */
 int main(void)
 {
